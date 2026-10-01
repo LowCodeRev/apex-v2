@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "appId": "afdf196f-ddaa-4407-9ce0-5ac28bfb11ef",
+  "appDisplayName": "Apex",
+  "region": "prod",
+  "appType": "CodeApp",
+  "environmentId": "50b383ee-e3db-ed10-983d-376a576cd404",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
