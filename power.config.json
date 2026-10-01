@@ -11,5 +11,26 @@
   "localAppUrl": "http://localhost:3000",
   "logoPath": "Default",
   "connectionReferences": {},
-  "databaseReferences": {}
+  "databaseReferences": {
+    "default.cds": {
+      "dataSources": {
+        "apexgames": {
+          "entitySetName": "mw_apexgames",
+          "logicalName": "mw_apexgame",
+          "isHidden": false
+        },
+        "apexteams": {
+          "entitySetName": "mw_apexteams",
+          "logicalName": "mw_apexteam",
+          "isHidden": false
+        },
+        "apexteamrounds": {
+          "entitySetName": "mw_apexteamrounds",
+          "logicalName": "mw_apexteamround",
+          "isHidden": false
+        }
+      },
+      "environmentVariableName": ""
+    }
+  }
 }
